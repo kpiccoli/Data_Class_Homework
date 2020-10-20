@@ -14,15 +14,15 @@ Getting funded on Kickstarter requires meeting or exceeding the project's initia
 Using the Excel data set, modify and analyze the data of 4,000 past Kickstarter projects and attempt to uncover some market trends:
 
 
-* Scale campains with a transitioting color on "Percent Funded" and split data in "Category" and "Sub-Category".
+* Scale campaigns with a transitioting color on "Percent Funded" and split data in "Category" and "Sub-Category".
 
 ![Kickstarter Table](Images/FullTable.PNG)
 
-* Defining campains by categories as successful, failed, canceled, or is currently live.
+* Defining campaigns by categories as successful, failed, canceled, or is currently live.
 
 ![Category Stats](Images/CategoryStats.PNG)
  
-* Defining campains by as sub-categories as successful, failed, canceled, or is currently live.
+* Defining campaigns by as sub-categories as successful, failed, canceled, or is currently live.
 
 ![Subcategory Stats](Images/SubcategoryStats.PNG)
 
@@ -34,9 +34,11 @@ Using the Excel data set, modify and analyze the data of 4,000 past Kickstarter 
 
  ![Images/backers01.png](Images/backers01.png)
  
-* Analysis based on Launch Date
+* Analysis based on Launch Date.
 
 ![Outcomes Based on Launch Date](Images/LaunchDateOutcomes.PNG)
 
+* Summarize brackers for successful and unsuccesstul campaigns.
 
+![Images/backers01.png](Images/backers01.png)
 
