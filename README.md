@@ -34,7 +34,7 @@ Using the Excel data set, modify and analyze the data of 4,000 past Kickstarter 
 
 ![Outcomes Based on Launch Date](Images/LaunchDateOutcomes.PNG)
 
-* Summarize brackers for successful and unsuccesstul campaigns.
+* Summarize backers for successful and unsuccesstul campaigns.
 
 ![Images/Backers.png](Images/Backers.png)
 
