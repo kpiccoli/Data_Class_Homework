@@ -30,15 +30,11 @@ Using the Excel data set, modify and analyze the data of 4,000 past Kickstarter 
 
 ![Goal Outcomes](Images/GoalOutcomes.PNG)
 
-* Estimate Average Donation for each backer.
-
- ![Images/backers01.png](Images/backers01.png)
- 
 * Analysis based on Launch Date.
 
 ![Outcomes Based on Launch Date](Images/LaunchDateOutcomes.PNG)
 
 * Summarize brackers for successful and unsuccesstul campaigns.
 
-![Images/backers01.png](Images/backers01.png)
+![Images/Backers.png](Images/Backers.png)
 
