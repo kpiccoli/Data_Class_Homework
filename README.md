@@ -6,8 +6,6 @@ Over $2 billion has been raised using the massively successful crowdfunding serv
 
 Getting funded on Kickstarter requires meeting or exceeding the project's initial goal, so many organizations spend months looking through past projects in an attempt to discover some trick for finding success.
 
-_______________________________
-
 ## Libraries
 * Excel - Pivot Tables, Conditional Formatting, Formulas, Pivot Chart, Filters. 
 
