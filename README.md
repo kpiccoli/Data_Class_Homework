@@ -8,33 +8,37 @@ Getting funded on Kickstarter requires meeting or exceeding the project's initia
 
 _______________________________
 
+## Libraries
+* Excel - Pivot Tables, Conditional Formatting, Formulas, Pivot Chart, Filters. 
+
 ## Description
 
 Using the Excel data set, modify and analyze the data of 4,000 past Kickstarter projects and attempt to uncover some market trends:
 
+
+* Scale campains with a transitioting color on "Percent Funded" and split data in "Category" and "Sub-Category".
+
 ![Kickstarter Table](Images/FullTable.PNG)
 
-* Defining campains as successful, failed, canceled, or is currently live.
+* Defining campains by categories as successful, failed, canceled, or is currently live.
 
- ![Category Stats](Images/CategoryStats.PNG)
+![Category Stats](Images/CategoryStats.PNG)
+ 
+* Defining campains by as sub-categories as successful, failed, canceled, or is currently live.
+
+![Subcategory Stats](Images/SubcategoryStats.PNG)
 
 * How much money a campaign made to reach its initial goal.
 
-* Scale campains transitioting as "Percent Funded". 
+![Goal Outcomes](Images/GoalOutcomes.PNG)
 
 * Estimate the Average Donation for each backer.
 
-* Create two new columns, one called `Category` at Q and another called `Sub-Category` at R, which use formulas to split the `Category and Sub-Category` column into two parts.
+ ![Images/backers01.png](Images/backers01.png)
 
- 
+* Create a stacked column pivot chart that can be filtered by country based on the table you have created.
 
-  * Create a new sheet with a pivot table that will analyze your initial worksheet to count how many campaigns were successful, failed, canceled, or are currently live per **category**.
-
-  * Create a stacked column pivot chart that can be filtered by country based on the table you have created.
-
-  ![Subcategory Stats](Images/SubcategoryStats.PNG)
-
-  * Create a new sheet with a pivot table that will analyze your initial sheet to count how many campaigns were successful, failed, or canceled, or are currently live per **sub-category**.
+* Create a new sheet with a pivot table that will analyze your initial sheet to count how many campaigns were successful, failed, or canceled, or are currently live per **sub-category**.
 
   * Create a stacked column pivot chart that can be filtered by country and parent-category based on the table you have created.
 
@@ -84,7 +88,7 @@ Using the Excel data set, modify and analyze the data of 4,000 past Kickstarter 
   * 45000 to 49999
   * Greater than or equal to 50000
 
-  ![Goal Outcomes](Images/GoalOutcomes.PNG)
+  
 
 * Using the `COUNTIFS()` formula, count how many successful, failed, and canceled projects were created with goals within the ranges listed above. Populate the `Number Successful`, `Number Failed`, and `Number Canceled` columns with this data.
 
@@ -100,7 +104,7 @@ For those looking for an additional challenge, you will evaluate the number of b
 
 * Create a new worksheet in your workbook, and create a column each for the number of backers of successful campaigns and unsuccessful campaigns.
 
-  ![Images/backers01.png](Images/backers01.png)
+ 
 
 * Use Excel to evaluate the following for successful campaigns, and then for unsuccessful campaigns:
 
