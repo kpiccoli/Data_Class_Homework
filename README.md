@@ -1,4 +1,4 @@
-# Excel Homework: Kickstart My Chart
+# Excel Market Trends
 
 ## Background
 
