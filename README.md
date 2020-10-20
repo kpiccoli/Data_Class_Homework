@@ -4,26 +4,29 @@
 
 Over $2 billion has been raised using the massively successful crowdfunding service, Kickstarter, but not every project has found success. Of the more than 300,000 projects launched on Kickstarter, only a third have made it through the funding process with a positive outcome.
 
-Getting funded on Kickstarter requires meeting or exceeding the project's initial goal, so many organizations spend months looking through past projects in an attempt to discover some trick for finding success. 
+Getting funded on Kickstarter requires meeting or exceeding the project's initial goal, so many organizations spend months looking through past projects in an attempt to discover some trick for finding success.
 
-
-![Kickstarter Table](Images/FullTable.PNG)
+_______________________________
 
 ## Description
 
 Using the Excel data set, modify and analyze the data of 4,000 past Kickstarter projects and attempt to uncover some market trends:
 
+![Kickstarter Table](Images/FullTable.PNG)
+
 * Defining campains as successful, failed, canceled, or is currently live.
+
+ ![Category Stats](Images/CategoryStats.PNG)
 
 * How much money a campaign made to reach its initial goal.
 
 * Scale campains transitioting as "Percent Funded". 
 
-* Estimate the `Average Donation` each backer for the project paid on average.
+* Estimate the Average Donation for each backer.
 
-  * Create two new columns, one called `Category` at Q and another called `Sub-Category` at R, which use formulas to split the `Category and Sub-Category` column into two parts.
+* Create two new columns, one called `Category` at Q and another called `Sub-Category` at R, which use formulas to split the `Category and Sub-Category` column into two parts.
 
-  ![Category Stats](Images/CategoryStats.PNG)
+ 
 
   * Create a new sheet with a pivot table that will analyze your initial worksheet to count how many campaigns were successful, failed, canceled, or are currently live per **category**.
 
