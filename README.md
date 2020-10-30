@@ -6,6 +6,9 @@ Over $2 billion has been raised using the massively successful crowdfunding serv
 
 Getting funded on Kickstarter requires meeting or exceeding the project's initial goal, so many organizations spend months looking through past projects in an attempt to discover some trick for finding success.
 
+## Files
+* [Market Trends](Resources/Excel_Challenge.xlsx) - analysis of market trends for Kickstarter.
+
 ## Libraries
 * Excel - Pivot Tables, Conditional Formatting, Formulas, Pivot Chart, Filters. 
 
