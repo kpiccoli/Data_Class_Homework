@@ -8,6 +8,7 @@ Getting funded on Kickstarter requires meeting or exceeding the project's initia
 
 ## Files
 * [Market Trends](Resources/Excel_Challenge.xlsx) - analysis of market trends for Kickstarter.
+* [Report](Excel Challenge Report.docx) - analysis of market trends for Kickstarter.
 
 ## Libraries
 * Excel - Pivot Tables, Conditional Formatting, Formulas, Pivot Chart, Filters. 
